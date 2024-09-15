@@ -15,7 +15,7 @@
 [![Visita mi Sitio Web](https://img.shields.io/badge/Sitio_Web-Visítame-brightgreen?style=for-the-badge)](https://icozaaidortauaemexxmxx.on.drv.tw/sitio%20web/Pagina%20web/#)
 
 <p align="center">
-  <img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/65b0028c-c1ad-4d7a-8828-628c9cb2cbf0/DallEGeneratedImages/dalle-dfbc0edc-b463-41c2-ba04-d60b546cde360251675931481269859300.jpg&dcHint=WestUS2&fileToken=5ca16b6e-a1a1-4d8b-b702-fd0b5dae012d" alt="Descripción de la imagen" width="300">
+  <img src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/65b0028c-c1ad-4d7a-8828-628c9cb2cbf0/DallEGeneratedImages/dalle-1c571145-a627-45c1-9ff4-450db18997750251675931208207394400.jpg&dcHint=WestUS2&fileToken=5ca16b6e-a1a1-4d8b-b702-fd0b5dae012d" alt="Descripción de la imagen" width="300">
 </p>
 
 
