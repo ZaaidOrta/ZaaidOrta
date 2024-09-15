@@ -8,6 +8,7 @@
 📚 **Áreas de Interés:**
 - Ciencia de Datos y Big Data
 - Desarrollo de Software
+- Redes
 
 💡 Si deseas conocer más sobre mi trabajo, ¡te invito a visitar mi sitio web!
 
