@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 👋 ¡Hola! Soy estudiante de la Licenciatura en Ingeniería en Computación en la Universidad Autónoma del Estado de México (CU Valle de México), con formación técnica en programación. Me apasiona la tecnología, en especial la resolución de problemas a través del desarrollo de software. Estoy comprometido con el aprendizaje continuo y la colaboración en proyectos innovadores que impulsen el avance tecnológico.
 
 ⚙️ **Tecnologías y Herramientas:**
