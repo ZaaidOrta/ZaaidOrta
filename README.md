@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 ¡Hola! Soy estudiante de Ingeniería en Computación en la Universidad Autónoma del Estado de México (CU Valle de México) y también técnico en programación por parte del bachillerato. <br>Me apasiona la tecnología y la resolución de problemas mediante el desarrollo de software. Siempre estoy en busca de aprender y colaborar en proyectos innovadores.<br>⚙️ Tecnologías y Herramientas:<br>Lenguajes: JAVA, Python, JavaScript, HTML.<br>Frameworks y Librerías: p5.js, NodeJS.<br>📚 Intereses:<br>Ciencia de Datos y Big Data<br>Desarrollo de Software
 <br>
-Si te interesa saber un poco más de mi visita mi Sitio Web [![HERE!](https://img.shields.io/badge/Sitio_Web-Visítame-brightgreen)](https://icozaaidortauaemexxmxx.on.drv.tw/sitio%20web/Pagina%20web/#)
+Si te interesa saber un poco más de mi visita mi [![HERE!](https://img.shields.io/badge/Sitio_Web-Visítame-brightgreen)](https://icozaaidortauaemexxmxx.on.drv.tw/sitio%20web/Pagina%20web/#)
 
 
 
