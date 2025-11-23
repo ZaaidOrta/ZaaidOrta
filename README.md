@@ -23,7 +23,7 @@
 # 📄 Mi CV Online
 Aquí puedes consultar o descargar mi CV actualizado:
 
-👉 **[![CV(https://cvjzbo.netlify.app/)
+👉 **[![CV](https://img.shields.io/badge/Ver%20mi%20CV-1d72b8?style=for-the-badge&logo=google-drive&logoColor=white)](https://cvjzbo.netlify.app/)**
 
 ---
 
