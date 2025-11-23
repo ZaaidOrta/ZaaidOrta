@@ -23,11 +23,7 @@
 # 📄 Mi CV Online
 Aquí puedes consultar o descargar mi CV actualizado:
 
-👉 **[Ver / Descargar mi CV](/mnt/data/cv_web.html)**
-
-> Si deseas subir tu CV al repositorio para que esté disponible en GitHub Pages o directamente enlazado en tu README, colócalo dentro de una carpeta del proyecto (por ejemplo: `assets/cv/`) e incluye aquí la ruta, por ejemplo:
->
-> `https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/cv/MiCV.pdf`
+👉 **[![CV(https://cvjzbo.netlify.app/)
 
 ---
 
